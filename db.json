@@ -48,7 +48,7 @@
   "produtos": [
     {
         "id": 1,
-        "nome": "Oléo sintético",
+        "nome": "Oléo",
         "descricao": "15W50 1 litro",
         "preco": 43.35,
         "imagem":"https://static.hdpecas.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/I/M/IMG_10520.jpg"
